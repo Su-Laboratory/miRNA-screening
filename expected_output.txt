@@ -1,0 +1,5 @@
+Expected Top miRNAs on toy input:
+1. hsa-miR-143 ~ 6.2e4
+2. hsa-miR-182 ~ 2.95e4
+3. hsa-let-7a ~ 2.05e4
+4. hsa-miR-183 ~ 1.45e4
